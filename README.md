@@ -126,24 +126,3 @@ If you are on Windows (without WSL), replace `"${PWD}"` with `%cd%`.
 
 Open your browser and go to http://localhost:10000/lab?token=YOUR_TOKEN_IN_CONSOLE (note the port `10000`).
 Replace `YOUR_TOKEN_IN_CONSOLE` with the token displayed in your terminal after running the container. 
-
-
-## Tutorials
-
-Start with the [Introduction](./Introduction.md), which provides an overview 
-of fuzzy logic concepts and terminology. This is recommended as the first step.
-
-This course includes two tutorial notebooks:
-
-* **01_FuzzyControlSystem.ipynb**: Introduction to fuzzy control systems.
-* **02_FuzzyClustering.ipynb**: Introduction to fuzzy clustering techniques.
-
-Work through these notebooks in order.
-
-## Deliverable
-
-After completing the tutorials, create your own Jupyter notebook applying one of the approaches to a problem.
-
-1. **Select a domain**: choose a domain related to your group project (if already available) or a personal interest. 
-2. **Create and name your notebook**: experiment with the chosen approach and save your notebook as `03_<YourProjectName>.ipynb`. 
-3. **Push to your repository**: upload your completed notebook to your GitHub repository (_including_ the output)."# Fuzzy_Sets-System" 
